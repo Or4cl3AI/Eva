@@ -1,5 +1,3 @@
-Shared dependencies between the generated files:
-
 1. SuperAIAgent.py:
    - SuperAIAgent class
    - init method
@@ -27,4 +25,3 @@ Shared dependencies between the generated files:
    - customize_agent method
    - agent instance
 
-Note: The shared dependencies include class names, method names, and variable names.
